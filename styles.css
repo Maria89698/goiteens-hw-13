@@ -348,7 +348,9 @@ nav {
     color: var(--thirdly-text-color);
 
     margin: auto;
-    padding: 27px 94px;
+    padding-bottom: 27px;
+    padding-top: 27px;
+    width: 100%;
 
     flex-wrap: nowrap;
 }
